@@ -1,6 +1,6 @@
 # Requirements_For_Rental_Assistant
 
-> This project was created during my volunteer internship at [Havensafe](https://havensafe.org)
+> This project was created by [Long](https://github.com/longthannga) during his volunteer internship at [Havensafe](https://havensafe.org)
 
 ## 🏢 About This Project
 **Our Purpose:**  
